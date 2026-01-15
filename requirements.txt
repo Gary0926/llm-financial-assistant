@@ -1,10 +1,10 @@
 requests==2.32.4
 yfinance==0.2.54
-langchain==0.3.1
-langchain-core==0.3.39
-langchain-openai==0.2.1
-langchain-community==0.3.27
-langgraph==0.2.28
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langgraph
 faiss-cpu==1.8.0.post1
 newsapi-python==0.2.7
 ipython==8.27.0
@@ -12,6 +12,7 @@ typing
 python-dotenv==1.0.1
 line-bot-sdk==3.16.0
 Flask==3.1.1
+
 
 
 
