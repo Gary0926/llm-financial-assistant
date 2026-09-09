@@ -1,4 +1,5 @@
-.claude/
+.claude/project-type
+.claude/settings.local.json
 .codex/
 AGENTS.md
 __pycache__/
